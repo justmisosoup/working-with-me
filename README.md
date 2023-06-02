@@ -96,15 +96,15 @@ I am likely to attempt to understand where you’re coming from rather than asse
 
 ### Top 3 Core Values
 
-- **Empathy—**I strongly believe in putting myself in another person’s shoes regardless of my own experiences and ability to truly empathise. This often manifests as me asking a lot about your experiences or perceptions so I can understand where they are coming from.
+- **Empathy**—I strongly believe in putting myself in another person’s shoes regardless of my own experiences and ability to truly empathise. This often manifests as me asking a lot about your experiences or perceptions so I can understand where they are coming from.
 - **Reliability—**Being reliable to others is important to me. I will try my best always to let you know if I cannot commit to something initially agreed upon ahead of time. On the flip side, I generally uphold others to this value as well. If in doubt, over communicate.
 - **Honesty—**Dishonesty is probably the number one thing I try to avoid. I try to always come prepared with the most factual information I can.
 
 ### My Favorite Things
 
-- **Food—**I cook a lot at home. I went into culinary arts early at university, but later on decided on a different direction. That said, I love to talk about cooking techniques and enjoy sharing recipes.
-- **Traveling—**I enjoy traveling to the remote corners of the world. I definitely won’t turn down an opportunity to go somewhere that is non-remote, so long as there are great experiences to be had.
-- **Reading—**Primarily thick hefty fiction books in the SciFi, Fantasy, and Historical genres. Or any mix of those together. My favourite series are Wheel of Time (I’ve read 6 of the 15 books in the series so far) and anything related to Middle-Earth (Lord of the Rings) or Westeros / Old Valyria (Game of Thrones).
+- **Food**—I cook a lot at home. I went into culinary arts early at university, but later on decided on a different direction. That said, I love to talk about cooking techniques and enjoy sharing recipes.
+- **Traveling**—I enjoy traveling to the remote corners of the world. I definitely won’t turn down an opportunity to go somewhere that is non-remote, so long as there are great experiences to be had.
+- **Reading**—Primarily thick hefty fiction books in the SciFi, Fantasy, and Historical genres. Or any mix of those together. My favourite series are Wheel of Time (I’ve read 6 of the 15 books in the series so far) and anything related to Middle-Earth (Lord of the Rings) or Westeros / Old Valyria (Game of Thrones).
 
 ### Personality Test Results
 
