@@ -97,8 +97,8 @@ I am likely to attempt to understand where you’re coming from rather than asse
 ### Top 3 Core Values
 
 - **Empathy**—I strongly believe in putting myself in another person’s shoes regardless of my own experiences and ability to truly empathise. This often manifests as me asking a lot about your experiences or perceptions so I can understand where they are coming from.
-- **Reliability—**Being reliable to others is important to me. I will try my best always to let you know if I cannot commit to something initially agreed upon ahead of time. On the flip side, I generally uphold others to this value as well. If in doubt, over communicate.
-- **Honesty—**Dishonesty is probably the number one thing I try to avoid. I try to always come prepared with the most factual information I can.
+- **Reliability**—Being reliable to others is important to me. I will try my best always to let you know if I cannot commit to something initially agreed upon ahead of time. On the flip side, I generally uphold others to this value as well. If in doubt, over communicate.
+- **Honesty**—Dishonesty is probably the number one thing I try to avoid. I try to always come prepared with the most factual information I can.
 
 ### My Favorite Things
 
