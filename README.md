@@ -81,8 +81,8 @@ I am likely to attempt to understand where you’re coming from rather than asse
 
 **Receiving**
 
-- I struggle with asking for help. I only do this when I’ve exhausted the options I can come up with.
-- I often feel like I’m inconveniencing others when they help.
+- I will always attempt to find an answer before asking a question.
+- Clear and directive support is important to me.  
 
 **Providing**
 
