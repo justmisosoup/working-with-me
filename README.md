@@ -7,11 +7,11 @@ A user manual on what it's like to work with me. Including my natural procliviti
 
 - My day starts at 8 AM. I may come off as anti-social in the mornings, I just need time to wake up. It’s nothing personal if I seem to struggle through conversation in the mornings.
 - I spend the first half-hour catching up with emails and Slack messages.
-- The start of the workday is at 8:30 AM and consists of working meetings like stand ups. Getting caught up with the team.
-- Next, I like to line up any brainstorms in the first half of the day. Anytime before noon. Depending on availability. This is also because members of our team are in Europe. I like to be respectful of their days also.
-- I take an hour lunch with my fiancé around noon. This is a sacred time.
-- Focused work takes place in the afternoon. This is also when interpersonal meetings can happen.
-- Ideally, I end my workday at 6 PM.
+- The start of the workday is at 8:30 AM and consists of standing meetings like stand ups and getting caught up.
+- I prefer to conduct collaborative meetings in the first half of the day. 
+- I take an hour lunch around noon—if I remember.
+- Focused work takes place in the afternoon. 
+- I end my workday at 6 PM.
 
 ### My strengths and weaknesses
 
@@ -19,11 +19,11 @@ A user manual on what it's like to work with me. Including my natural procliviti
 
 - I know a little about a lot of things and am enthusiastic to learn something new.
 - I can adapt quickly to most situations so long as it is clear what changes are taking place.
-- Empathy is the default for me, I will always strive to understand where others are coming from.
+- Empathy is the default for me, I always strive to understand different perspectives.
 
 **Weaknesses**
 
-- I tend to overthink things which can lead to decision paralysis.
+- I tend to overthink, which can lead to decision paralysis.
 - I do not adapt well to last-minute changes that aren’t well communicated.
 - I have a hard time speaking to large audiences. This is something I am working on.
 
@@ -45,14 +45,14 @@ A user manual on what it's like to work with me. Including my natural procliviti
     - Actionable and realistic to act on.
     - Delivered on a personal level (e.g. one-on-one in a meeting or async in an agreed upon space).
 - Low-value feedback:
-    - Ambiguous and not clear how I can improve.
-    - Attacks of character, accusations, assumptions.
+    - Indirect or non-specific feedback on how I can improve.
+    - Attacks of character, accusations, and or assumptions.
     - Delivered impersonally (e.g. somewhere we didn’t mutually agree on like a random public channel or randomly in a large meeting).
 
 **Giving Feedback**
 
 - I love helping others polish ideas—optimisations and improvements.
-- I need explicit direction on the feedback you are looking for, else I’ll give feedback on just about anything that comes to mind.
+- If soliciting my feedback, if not otherwise stated, I will ask what is most useful.
 - Unless otherwise stated, feedback will be delivered personally.
 
 ### Preferred communication
@@ -96,7 +96,7 @@ I am likely to attempt to understand where you’re coming from rather than asse
 
 ### Top 3 Core Values
 
-- **Empathy**—I strongly believe in putting myself in another person’s shoes regardless of my own experiences and ability to truly empathise. This often manifests as me asking a lot about your experiences or perceptions so I can understand where they are coming from.
+- **Empathy**—I believe in putting myself in another person’s shoes regardless of my own experiences and ability to truly empathise. This often manifests as me asking a lot about your experiences or perceptions so I can understand where they are coming from.
 - **Reliability**—Being reliable to others is important to me. I will try my best always to let you know if I cannot commit to something initially agreed upon ahead of time. On the flip side, I generally uphold others to this value as well. If in doubt, over communicate.
 - **Honesty**—Dishonesty is probably the number one thing I try to avoid. I try to always come prepared with the most factual information I can.
 
