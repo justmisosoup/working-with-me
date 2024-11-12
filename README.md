@@ -1,6 +1,46 @@
 # working-with-me
 A user manual on what it's like to work with me. Including my natural proclivities and habits.
 
+## Product & Design Principles
+
+#### Talk to customers
+Great products solve real problems. Who better to tell you about those problems than your customers?
+
+#### Identify the real competition
+Don’t rely on superficial product comparisons. Pay attention to user behaviours and habits too.
+
+#### Validate early and often
+Ideas are fleeting. Stay nimble and validate early. Don’t let perfection stand in the way of progress.
+
+#### Embody being data-driven
+Do the work to understand data, its nuances, and how it’s being used to drive decisions and measure success.
+
+#### Turn constraints into opportunities
+Understand the boundaries of the environments you’re designing in, their gaps and opportunity areas.
+
+#### Aim for simplicity
+When introducing new patterns, consider what you’re requiring the customer to learn. Aim for simplicity.
+
+## Working With Teams
+
+#### Respect your experts
+Subject matter experts are gold. Trust in their expertise and take every opportunity to learn from them.
+
+#### Foster collaboration
+Keep communication open and work cross-functionally. Diversity of ideas leads to better outcomes.
+
+#### Set expectations early, explicitly
+Avoid misunderstandings by aligning on what is expected, as early and clearly as possible.
+
+#### Be a team advocate
+It’s your responsibility to ensure your team has everything they need to do their best work.
+
+#### Always be evanglizing
+Champion your best ideas by sharing them and educating others at both the team and company level.
+
+#### Commit, even if you disagree
+It is healthy to have some disagreement. At a minimum, align and commit on the outcomes. 
+
 ## Work
 
 ### My typical day
