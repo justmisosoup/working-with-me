@@ -45,7 +45,7 @@ It is healthy to have some disagreement. At a minimum, align and commit on the o
 
 ### My typical day
 
-- My day starts at 8 AM. I may come off as anti-social in the mornings, I just need time to wake up. It’s nothing personal if I seem to struggle through conversation in the mornings.
+- My day starts at 8 AM. I am less talkative in the mornings.
 - I spend the first half-hour catching up with emails and Slack messages.
 - The start of the workday is at 8:30 AM and consists of standing meetings like stand ups and getting caught up.
 - I prefer to conduct collaborative meetings in the first half of the day. 
@@ -63,8 +63,8 @@ It is healthy to have some disagreement. At a minimum, align and commit on the o
 
 **Weaknesses**
 
-- I tend to overthink, which can lead to decision paralysis.
-- I do not adapt well to last-minute changes that aren’t well communicated.
+- I can sometimes fall into overthinking traps, which can lead to decision paralysis.
+- I do not adapt well to last-minute changes that aren’t well-communicated.
 - I have a hard time speaking to large audiences. This is something I am working on.
 
 ### I do my best work when
