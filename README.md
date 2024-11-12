@@ -1,4 +1,4 @@
-# working-with-me
+# Working With Me
 A user manual on what it's like to work with me. Including my natural proclivities and habits.
 
 ## Product & Design Principles
