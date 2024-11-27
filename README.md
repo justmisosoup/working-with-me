@@ -3,7 +3,7 @@ A user manual on what it's like to work with me.
 
 ## Product & Design Principles
 
-#### Talk to customers
+#### Talk to your customers
 Great products solve real problems. Who better to tell you about those problems than your customers?
 
 #### Identify the real competition
@@ -35,7 +35,7 @@ Avoid misunderstandings by aligning on what is expected, as early and clearly as
 #### Be a team advocate
 It’s your responsibility to ensure your team has everything they need to do their best work.
 
-#### Always be evanglizing
+#### Always be evanglising
 Champion your best ideas by sharing them and educating others at both the team and company level.
 
 #### Commit, even if you disagree
