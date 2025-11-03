@@ -4,7 +4,7 @@ A user manual on what it's like to work with me.
 ## Product & Design Principles
 
 #### Talk to your customers
-Great products solve real problems. Who better to tell you about those problems than your customers?
+Great products solve real customer problems.
 
 #### Identify the real competition
 Don’t rely on superficial product comparisons. Pay attention to user behaviours and habits too.
@@ -43,16 +43,15 @@ It is healthy to have some disagreement. At a minimum, align and commit on the o
 
 ## Work
 
-### My typical day
+### Typical day
 
-- My day starts at 8 AM. I am less talkative in the mornings.
-- I spend the first half-hour catching up with emails and Slack messages.
-- The start of the workday is at 8:30 AM and consists of standing meetings like stand ups and getting caught up.
-- I prefer to conduct collaborative meetings in the first half of the day. 
-- I take an hour lunch around noon—if I remember.
+- The start of the workday is at 9 AM.
+- Mornings consist of standing meetings like stand ups.
+- Preference towards collaborative meetings in the first half of the day. 
+- Lunches are important and protected time.
 - Focused work takes place in the afternoon. 
-- I end my workday at 6 PM.
-
+- Workday ends whenever my tasks are complete for the day.
+  
 ### My strengths and weaknesses
 
 **Strengths**
@@ -104,16 +103,17 @@ It is healthy to have some disagreement. At a minimum, align and commit on the o
 
 **Asynchronous**
 
-- Documents: Whether in Notion or Google Docs, if you have an idea and want to communicate it to me passively, send me a link to a document.
-- Emails: This is the best way to communicate *non-urgent* things to me. I check emails first thing in the morning and sporadically throughout the day. Though, I am less reliable with checking my inbox later in the day.
+- Figma / Loom Comments: Where specific questions 
+- Documents: Best for big ideas that require context and framing. I prefer Notion, but Google Docs also works.
+- Emails: This is the best way to communicate *non-urgent* things to me. 
 
 **Notes**
 
-- Recorded meetings are appreciated as I occasionally forget details. I prefer to record over taking notes because I prefer to stay focused on the conversation rather than on note-taking.
+- Most times, I have Granola AI running. Though, my preference is recorded meetings as sometimes AI gets things wrong.
 
 ### Conflict resolution
 
-I am conflict-averse as a default. However, I won’t back down if I strongly believe in or care about something. Conflict is most likely to occur for me if I feel there is some sort of injustice or oversight happening. 
+I am conflict-averse as a default. However, I am not afraid of stating my concerns where necessary. Conflict is most likely to occur for me if I there is any perceived injustice or intentional obscuration of facts happening.
 
 I am likely to attempt to understand where you’re coming from rather than assert things I am assuming about you. When I ask a lot of questions, it's not meant as an attack, but as an attempt to understand. 
 
@@ -130,7 +130,8 @@ I am likely to attempt to understand where you’re coming from rather than asse
 
 ### Common misunderstandings about me
 
-- I have a tendency to appear rigid about structuring communication or work. This is not because I’m a control freak, but because I need structure to get my work done. I am quite open to new ideas and ways of structuring things if it doesn’t work for others. But I need to be explicit about things.
+- Articulation of thought process and questions can come off as defensive. This is an effort to gain clarification rather than not receiving feedback.
+- I can come off rigid in my communication. I bias towards structure when communicating abstract or difficult things.
 
 ## General
 
