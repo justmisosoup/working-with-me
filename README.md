@@ -143,8 +143,8 @@ I am likely to attempt to understand where you’re coming from rather than asse
 ### My Favorite Things
 
 - **Food**—I cook a lot at home. I went into culinary arts early at university, but later on decided on a different direction. That said, I love to talk about cooking techniques and enjoy sharing recipes.
-- **Traveling**—I enjoy traveling to the remote corners of the world. I definitely won’t turn down an opportunity to go somewhere that is non-remote, so long as there are great experiences to be had.
-- **Reading**—Primarily thick hefty fiction books in the SciFi, Fantasy, and Historical genres. Or any mix of those together. My favourite series are Wheel of Time (6 of 15) and The Stormlight Archive (2 of 6).
+- **Travel**—I enjoy traveling to the remote corners of the world. I definitely won’t turn down an opportunity to go somewhere that is non-remote, so long as there are great experiences to be had.
+- **Books**—Primarily thick hefty fiction books in the SciFi, Fantasy, and Historical genres. Or any mix of those together. My favourite series are Wheel of Time (6 of 15) and The Stormlight Archive (3 of 6).
 
 ### Personality Test Results
 
