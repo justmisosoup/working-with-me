@@ -103,7 +103,7 @@ It is healthy to have some disagreement. At a minimum, align and commit on the o
 
 **Asynchronous**
 
-- Figma / Loom Comments: Where specific questions 
+- Figma / Loom Comments: Best for design specific feedback. 
 - Documents: Best for big ideas that require context and framing. I prefer Notion, but Google Docs also works.
 - Emails: This is the best way to communicate *non-urgent* things to me. 
 
