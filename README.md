@@ -16,7 +16,7 @@ Ideas are fleeting. Stay nimble and validate early. Don’t let perfection stand
 Do the work to understand data, its nuances, and how it’s being used to drive decisions and measure success.
 
 #### Turn constraints into opportunities
-Understand the boundaries of the environments you’re designing in, their gaps and opportunity areas.
+Understand the boundaries of the environments you’re designing in, their gaps, and opportunity areas.
 
 #### Aim for simplicity
 When introducing new patterns, consider what you’re requiring the customer to learn. Aim for simplicity.
@@ -30,23 +30,23 @@ Subject matter experts are gold. Trust in their expertise and take every opportu
 Keep communication open and work cross-functionally. Diversity of ideas leads to better outcomes.
 
 #### Set expectations early, explicitly
-Avoid misunderstandings by aligning on what is expected, as early and clearly as possible.
+Avoid misunderstandings by aligning on expectations as early and clearly as possible.
 
 #### Be a team advocate
 It’s your responsibility to ensure your team has everything they need to do their best work.
 
-#### Always be evanglising
-Champion your best ideas by sharing them and educating others at both the team and company level.
+#### Always be evangelising
+Champion your best ideas by sharing them and educating others at both the team and company levels.
 
 #### Commit, even if you disagree
-It is healthy to have some disagreement. At a minimum, align and commit on the outcomes. 
+It is healthy to have some disagreement. At a minimum, align and commit to the outcomes. 
 
 ## Work
 
 ### Typical day
 
 - The start of the workday is at 9 AM.
-- Mornings consist of standing meetings like stand ups.
+- Mornings consist of standing meetings like stand-ups.
 - Preference towards collaborative meetings in the first half of the day. 
 - Lunches are important and protected time.
 - Focused work takes place in the afternoon. 
@@ -58,7 +58,7 @@ It is healthy to have some disagreement. At a minimum, align and commit on the o
 
 - I know a little about a lot of things and am enthusiastic to learn something new.
 - I can adapt quickly to most situations so long as it is clear what changes are taking place.
-- Empathy is the default for me, I always strive to understand different perspectives.
+- Empathy is the default for me; I always strive to understand different perspectives.
 
 **Weaknesses**
 
@@ -82,11 +82,11 @@ It is healthy to have some disagreement. At a minimum, align and commit on the o
 - High-value feedback:
     - Clear what the feedback is about.
     - Actionable and realistic to act on.
-    - Delivered on a personal level (e.g. one-on-one in a meeting or async in an agreed upon space).
+    - Delivered on a personal level (e.g., one-on-one in a meeting or async in an agreed-upon space).
 - Low-value feedback:
     - Indirect or non-specific feedback on how I can improve.
     - Attacks of character, accusations, and or assumptions.
-    - Delivered impersonally (e.g. somewhere we didn’t mutually agree on like a random public channel or randomly in a large meeting).
+    - Delivered impersonally (e.g., somewhere we didn’t mutually agree on, like a random public channel or randomly in a large meeting).
 
 **Giving Feedback**
 
@@ -98,24 +98,24 @@ It is healthy to have some disagreement. At a minimum, align and commit on the o
 
 **Synchronous**
 
-- Slack: Messages through Slack are the best way to get my attention. I treat Slack messages as synchronous (rarely asynchronous). If I cannot commit to actively participating, I’ll try my best to let you know when I will respond or schedule a time to follow up with you.
+- Slack: Messages through Slack are the best way to get my attention. I treat Slack messages as synchronous (rarely asynchronous). If I cannot commit to actively participating, I’ll do my best to let you know when I will respond or schedule a time to follow up.
 - Meetings: If something can’t be easily summarised in a written sentence, it’s easier for me to discuss it verbally. This is where I may ask for a Slack Huddle or Google Hangout.
 
 **Asynchronous**
 
-- Figma / Loom Comments: Best for design specific feedback. 
+- Figma / Loom Comments: Best for design-specific feedback. 
 - Documents: Best for big ideas that require context and framing. I prefer Notion, but Google Docs also works.
 - Emails: This is the best way to communicate *non-urgent* things to me. 
 
 **Notes**
 
-- Most times, I have Granola AI running. Though, my preference is recorded meetings as sometimes AI gets things wrong.
+- Most times, I have Granola AI running. Though my preference is recorded meetings, as sometimes AI gets things wrong.
 
 ### Conflict resolution
 
-I am conflict-averse as a default. However, I am not afraid of stating my concerns where necessary. Conflict is most likely to occur for me if I there is any perceived injustice or intentional obscuration of facts happening.
+I am conflict-averse as a default. However, I am not afraid to state my concerns when necessary. Conflict is most likely to occur for me when there is perceived injustice or intentional obscuration of facts.
 
-I am likely to attempt to understand where you’re coming from rather than assert things I am assuming about you. When I ask a lot of questions, it's not meant as an attack, but as an attempt to understand. 
+I am likely to try to understand where you’re coming from rather than make assumptions about you. When I ask a lot of questions, it's not meant as an attack, but as an attempt to understand. 
 
 ### Support
 
@@ -131,15 +131,15 @@ I am likely to attempt to understand where you’re coming from rather than asse
 ### Common misunderstandings about me
 
 - Articulation of thought process and questions can come off as defensive. This is an effort to gain clarification rather than not receiving feedback.
-- I can come off rigid in my communication. I bias towards structure when communicating abstract or difficult things.
+- I can come off rigid in my communication. I tend to favor structure when communicating abstract or difficult ideas.
 
 ## General
 
 ### Top 3 Core Values
 
-- **Empathy**—I believe in putting myself in another person’s shoes regardless of my own experiences and ability to truly empathise. This often manifests as me asking a lot about your experiences or perceptions so I can understand where they are coming from.
-- **Reliability**—Being reliable to others is important to me. I will try my best always to let you know if I cannot commit to something initially agreed upon ahead of time. On the flip side, I generally uphold others to this value as well. If in doubt, over communicate.
-- **Honesty**—Dishonesty is probably the number one thing I try to avoid. I try to always come prepared with the most factual information I can.
+- **Empathy**—I believe in putting myself in another person’s shoes, regardless of my own experiences and ability to truly empathise. This often manifests as me asking a lot about your experiences or perceptions so I can understand where they are coming from.
+- **Reliability**—Being reliable to others is important to me. I will always try my best to let you know if I cannot commit to something we initially agreed on ahead of time. On the flip side, I generally uphold others to this value as well. If in doubt, over-communicate.
+- **Honesty**—Dishonesty is probably the number one thing I try to avoid. I try to always come prepared with the most factual information I can. As a rule, dishonest people do not earn much respect from me. If there is a lack of respect, there will be a general lack of attention or urgency in our work together.
 
 ### My Favorite Things
 
@@ -150,10 +150,10 @@ I am likely to attempt to understand where you’re coming from rather than asse
 ### Personality Test Results
 
 - **Myers-Briggs Type Indicator (MBTI)**—[The Giver, ENFJ-T](https://www.xpersonalitytest.com/enfj/enfj-t) though the TL;DR is…
-    - **Extroverted** ENFJs tend to be *ambiverts,* meaning we do not get energy from socialising like other extroverts do. We need time to recharge. However, when we have high energy or are interested in something we love to be involved and can be highly social.
+    - **Extroverted** ENFJs tend to be *ambiverts,* meaning we do not get energy from socialising as other extroverts do. We need time to recharge. However, when we have high energy or are interested in something we love, we tend to be highly social.
     - **Intuitive**
     - **Feeling**
-    - **Judging** Judgement stems from the idea of anticipation and planning. We are less go with the flow, like our Perceiving counterparts.
-    - **Turbulent** The Turbulent aspect of ENFJs speaks to a perfectionist quality (which, can sometimes be unfortunate). We are always looking for ways to improve and fear making mistakes.
+    - **Judging** Judgement stems from the idea of anticipation and planning. We are less likely to go with the flow, like our Perceiving counterparts.
+    - **Turbulent** The Turbulent aspect of ENFJs speaks to a perfectionist quality (which can sometimes be unfortunate). We are always looking for ways to improve, but we fear making mistakes.
 - **Enneagram**—[Type 1 Wing 2, The Advocate](https://www.enneagraminstitute.com/type-1/)
 - **Four Tendencies**—[Questioner](https://www.shortform.com/blog/questioner-tendency/)
