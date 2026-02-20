@@ -113,7 +113,7 @@ It is healthy to have some disagreement. At a minimum, align and commit to the o
 
 ### Conflict resolution
 
-I am conflict-averse as a default. However, I am not afraid to state my concerns when necessary. Conflict is most likely to occur for me when there is perceived injustice or intentional obscuration of facts.
+I am conflict-averse as a default. However, I am not afraid to state my concerns when necessary. Conflict is most likely to occur for me when there is perceived injustice or when facts are intentionally obscured.
 
 I am likely to try to understand where you’re coming from rather than make assumptions about you. When I ask a lot of questions, it's not meant as an attack, but as an attempt to understand. 
 
@@ -138,8 +138,8 @@ I am likely to try to understand where you’re coming from rather than make ass
 ### Top 3 Core Values
 
 - **Empathy**—I believe in putting myself in another person’s shoes, regardless of my own experiences and ability to truly empathise. This often manifests as me asking a lot about your experiences or perceptions so I can understand where they are coming from.
-- **Reliability**—Being reliable to others is important to me. I will always try my best to let you know if I cannot commit to something we initially agreed on in advance. On the flip side, I generally uphold others to this value as well. If in doubt, over-communicate.
-- **Honesty**—Dishonesty is probably the number one thing I try to avoid. I try to always come prepared with the most factual information I can. As a rule, dishonesty degrades my trust and respect. Just don't do it. Trust that even if something sounds bad, I'm going to try to understand your perspective first.
+- **Reliability**—Being reliable to others is important to me. I will always try my best to let you know in advance if I cannot commit to something we initially agreed on. On the flip side, I generally uphold others to this value as well. If in doubt, over-communicate.
+- **Honesty**—Dishonesty is probably the number one thing I try to avoid. I strive to be transparent and come with the most factual information I have. If I don't know something, I'll tell you. As a rule, dishonesty degrades my trust and respect. Just don't do it. Trust that even if something sounds bad, I'm going to try to understand your perspective first.
 
 ### My Favorite Things
 
