@@ -1,0 +1,135 @@
+# Working With Me
+A user manual on what it's like to work with me.
+
+## Product & Design Principles
+
+- **Talk to your customers** — Great products solve real customer problems.
+- **Identify the real competition** — Don't rely on superficial product comparisons. Pay attention to user behaviours and habits too.
+- **Validate early and often** — Ideas are fleeting. Stay nimble and validate early. Don't let perfection stand in the way of progress.
+- **Embody being data-driven** — Do the work to understand data, its nuances, and how it's being used to drive decisions and measure success.
+- **Turn constraints into opportunities** — Understand the boundaries of the environments you're designing in, their gaps, and opportunity areas.
+- **Aim for simplicity** — When introducing new patterns, consider what you're requiring the customer to learn.
+
+## Working With Teams
+
+- **Respect your experts** — Subject matter experts are gold. Trust in their expertise and take every opportunity to learn from them.
+- **Foster collaboration** — Keep communication open and work cross-functionally. Diversity of ideas leads to better outcomes.
+- **Set expectations early, explicitly** — Avoid misunderstandings by aligning on expectations as early and clearly as possible.
+- **Be a team advocate** — It's your responsibility to ensure your team has everything they need to do their best work.
+- **Always be evangelising** — Champion your best ideas by sharing them and educating others at both the team and company levels.
+- **Commit, even if you disagree** — It is healthy to have some disagreement. At a minimum, align and commit to the outcomes.
+
+## Work
+
+### Typical Day
+
+- Start of workday at 9 AM
+- Mornings: standing meetings, stand-ups
+- Preference for collaborative meetings in the first half of the day
+- Lunches are important and protected time
+- Focused work in the afternoon
+- Workday ends when tasks are complete
+
+### Strengths
+
+- I know a little about a lot of things and am enthusiastic to learn something new
+- I can adapt quickly to most situations so long as it's clear what changes are taking place
+- Empathy is the default — I always strive to understand different perspectives
+
+### Weaknesses
+
+- I can sometimes fall into overthinking traps, which leads to decision paralysis
+- I do not adapt well to last-minute changes that aren't well-communicated
+- I have a hard time speaking to large audiences — this is something I'm working on
+
+### I Do My Best Work When
+
+- Goals are clear, and I have autonomy in executing the work
+- I have opportunities to get a pulse on how I'm doing
+- I have a foundational understanding of what I'm working on
+- I can collaborate with others
+
+## Interpersonal
+
+### Feedback
+
+**Receiving**
+
+- High-value feedback:
+  - Clear what the feedback is about
+  - Actionable and realistic to act on
+  - Delivered personally — one-on-one in a meeting or async in an agreed-upon space
+- Low-value feedback:
+  - Indirect or non-specific feedback on how I can improve
+  - Attacks of character, accusations, and/or assumptions
+  - Delivered impersonally — somewhere we didn't mutually agree on, like a random public channel or in a large meeting
+
+**Giving**
+
+- I love helping others polish ideas — optimisations and improvements
+- If soliciting my feedback, I'll ask what's most useful unless otherwise stated
+- Feedback will be delivered personally unless otherwise stated
+
+### Preferred Communication
+
+**Synchronous**
+
+- **Slack** — Best way to get my attention. I treat Slack as synchronous (rarely async). If I can't actively participate, I'll let you know when I'll respond or schedule a follow-up.
+- **Meetings** — If something can't be easily summarised in a written sentence, it's easier for me to discuss verbally. This is where I may ask for a Slack Huddle or Google Hangout.
+
+**Asynchronous**
+
+- **Figma / Loom Comments** — Best for design-specific feedback
+- **Documents** — Best for big ideas that require context and framing. I prefer Notion, but Google Docs also works.
+- **Email** — Best way to communicate *non-urgent* things to me
+
+**Notes**
+
+- Most times I have Granola AI running. My preference is recorded meetings — AI gets things wrong sometimes.
+
+### Conflict Resolution
+
+I am conflict-averse as a default. But I'm not afraid to state my concerns when necessary. Conflict is most likely to occur for me when there is perceived injustice or when facts are intentionally obscured.
+
+I'm likely to try to understand where you're coming from rather than make assumptions about you. When I ask a lot of questions, it's not meant as an attack — it's an attempt to understand.
+
+### Support
+
+**Receiving**
+
+- I will always attempt to find an answer before asking a question
+- Clear and directive support is important to me
+
+**Providing**
+
+- I'm often the first to jump at the chance to support others in ways I know I can contribute meaningfully
+
+### Common Misunderstandings About Me
+
+- Articulation of thought process and questions can come off as defensive — this is an effort to gain clarification, not a rejection of feedback
+- I can come off rigid in my communication — I tend to favor structure when communicating abstract or difficult ideas
+
+## General
+
+### Core Values
+
+- **Empathy** — I believe in putting myself in another person's shoes, regardless of my own experiences. This often manifests as me asking a lot about your experiences or perceptions so I can understand where you're coming from.
+- **Reliability** — Being reliable to others is important to me. I'll always try to let you know in advance if I can't commit to something we initially agreed on. I generally uphold others to this value as well. If in doubt, over-communicate.
+- **Honesty** — Dishonesty is probably the number one thing I try to avoid. I strive to be transparent and come with the most factual information I have. If I don't know something, I'll tell you. As a rule, dishonesty degrades my trust and respect. Just don't do it — trust that even if something sounds bad, I'm going to try to understand your perspective first.
+
+### My Favorite Things
+
+- **Food** — I cook a lot at home. I went into culinary arts early at university but later decided on a different direction. That said, I love to talk about cooking techniques and enjoy sharing recipes.
+- **Travel** — I enjoy traveling to the remote corners of the world. I definitely won't turn down an opportunity to go somewhere non-remote, so long as there are great experiences to be had.
+- **Books** — Primarily thick hefty fiction in SciFi, Fantasy, and Historical genres — or any mix of those together. Favourite series: Wheel of Time (6 of 15) and The Stormlight Archive (3 of 6).
+
+### Personality Test Results
+
+- **MBTI** — [The Giver, ENFJ-T](https://www.xpersonalitytest.com/enfj/enfj-t)
+  - **Extroverted** — ENFJs tend to be ambiverts. We don't get energy from socialising the way other extroverts do — we need time to recharge. But when we have high energy or are interested in something, we tend to be highly social.
+  - **Intuitive**
+  - **Feeling**
+  - **Judging** — Stems from anticipation and planning. Less likely to go with the flow.
+  - **Turbulent** — Speaks to a perfectionist quality. Always looking for ways to improve, but fear making mistakes.
+- **Enneagram** — [Type 1 Wing 2, The Advocate](https://www.enneagraminstitute.com/type-1/)
+- **Four Tendencies** — [Questioner](https://www.shortform.com/blog/questioner-tendency/)
