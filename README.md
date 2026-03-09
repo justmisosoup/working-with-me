@@ -115,13 +115,13 @@ I'm likely to try to understand where you're coming from rather than make assump
 
 - **Empathy** — I believe in putting myself in another person's shoes, regardless of my own experiences. This often manifests as me asking a lot about your experiences or perceptions so I can understand where you're coming from.
 - **Reliability** — Being reliable to others is important to me. I'll always try to let you know in advance if I can't commit to something we initially agreed on. I generally uphold others to this value as well. If in doubt, over-communicate.
-- **Honesty** — Dishonesty is probably the number one thing I try to avoid. I strive to be transparent and come with the most factual information I have. If I don't know something, I'll tell you. As a rule, dishonesty degrades my trust and respect. Just don't do it — trust that even if something sounds bad, I'm going to try to understand your perspective first.
+- **Honesty** — Dishonesty is probably the number one thing I try to avoid. I strive to be transparent and come with the most factual information I have. If I don't know something, I'll tell you. As a rule, dishonesty degrades my trust and respect. Just don't do it — trust that even if something sounds bad, I'll try to understand your perspective first.
 
 ### My Favorite Things
 
-- **Food** — I cook a lot at home. I went into culinary arts early at university but later decided on a different direction. That said, I love to talk about cooking techniques and enjoy sharing recipes.
+- **Food** — I cook a lot at home. I went into culinary arts early at university, but later decided on a different direction. That said, I love discussing cooking techniques and enjoy sharing recipes.
 - **Travel** — I enjoy traveling to the remote corners of the world. I definitely won't turn down an opportunity to go somewhere non-remote, so long as there are great experiences to be had.
-- **Books** — Primarily thick hefty fiction in SciFi, Fantasy, and Historical genres — or any mix of those together. Favourite series: Wheel of Time (6 of 15) and The Stormlight Archive (3 of 6).
+- **Books** — Primarily thick hefty fiction in SciFi, Fantasy, and Historical genres — or any mix of those together. Favourite series: Wheel of Time (6 of 15) and The Stormlight Archive (4 of 5).
 
 ### Personality Test Results
 
